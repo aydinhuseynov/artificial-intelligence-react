@@ -1,0 +1,13 @@
+:root {
+    --colorOfButtons: #3A68B8;
+}
+
+
+.navbar-button {
+    background: var(--colorOfButtons);
+    border-radius: 5px;
+    color: #fff;
+    border-color: transparent;
+
+}
+
